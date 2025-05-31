@@ -1,0 +1,5 @@
+001 Kopiko 2.75 75
+003 Chippy 2 380
+004 Soda 1.75 10
+089 Wipes 1.5 450
+035 Tobacco 20 150

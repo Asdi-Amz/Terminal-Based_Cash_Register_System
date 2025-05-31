@@ -82,11 +82,6 @@ void displayThankYouMessage()
     cout << "╚════════════════════════════════════════════════════════════════════════════════╝\n";
     cout << endl;
 
-    // Money falling animation effect
-    // cout << "                               💵   💴   💶   💷   💸" << endl;
-    // cout << "                          💰 Thank you for your business! 💰" << endl;
-    // cout << "                               💵   💴   💶   💷   💸" << endl;
-    // cout << endl;
 }
 
 int main()

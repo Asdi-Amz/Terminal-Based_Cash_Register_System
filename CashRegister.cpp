@@ -561,34 +561,6 @@ void CashRegister::customerMode()
             cout << "Current total: $" << fixed << setprecision(2) << total << endl;
             break;
         }
-            /*
-
-            case 'D':
-            {
-                if (cart.empty())
-                {
-                    cout << "Cart is empty!" << endl;
-                    break;
-                }
-                viewCart();
-                double discount;
-                cout << "Enter discount percentage (0-100) or -1 to go back: ";
-                while (!(cin >> discount) || (discount < -1 || discount > 100))
-                {
-                    cin.clear();
-                    cin.ignore(numeric_limits<streamsize>::max(), '\n');
-                    cout << "Invalid discount! Please enter a number between 0-100 (or -1 to go back): ";
-                }
-                if (discount == -1)
-                {
-                    cin.ignore(numeric_limits<streamsize>::max(), '\n');
-                    break;
-                }
-                cin.ignore(numeric_limits<streamsize>::max(), '\n');
-                applyDiscount(discount / 100.0);
-                break;
-            }
-            */
 
         case 'D':
         {

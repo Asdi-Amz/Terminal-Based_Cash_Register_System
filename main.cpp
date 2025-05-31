@@ -1,4 +1,4 @@
-/* CASH REGISTER*/
+/* CASH REGISTER, CompEng Project, MAY 31 2025*/
 // Asdi V. Amamence BSCPE 1-7 
 
 #include "CashRegister.h"
